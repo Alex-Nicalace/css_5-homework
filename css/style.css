@@ -152,7 +152,7 @@ h1 {
 	padding-bottom: 59px;
 }
 .list .list-item {
-	background: 0 8px url("img/check_icon.png") no-repeat;
+	background: 0 8px url("/img/check_icon.png") no-repeat;
 	padding-left: 35px;
 }
 .list .list-item.list-item-onestr {
@@ -181,7 +181,7 @@ h1 {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	border-radius: 20px;
-	background: #80b7b3 140px url('img/Shape_2.png') no-repeat;
+	background: #80b7b3 140px url('/img/Shape_2.png') no-repeat;
 	padding: 0 60px 0 30px;
 	box-shadow: 0 0 15px 1px #80b7b3;
 }
